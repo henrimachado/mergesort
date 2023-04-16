@@ -1,3 +1,6 @@
+//Henrique Machado
+//2021
+
 #include <iostream> //biblioteca padrão do c++
 #include <locale>   //biblioteca para a localização da linguagem
 #include <fstream>  //biblioteca para arquivo
